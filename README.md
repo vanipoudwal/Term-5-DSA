@@ -1,2 +1,2 @@
 # Term-5-DSA
-This Repository Is Used To Write Data Structures & Algorithms Code.
+This repository is used to write Data Structures & Algorithms code.
